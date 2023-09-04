@@ -10,6 +10,7 @@
   overflow-x: scroll;
   padding: 20px;
   overflow: hidden; /*  to hide the scrollbar of the .row_posters container */
+  cursor: pointer;
 }
 
 .row_poster {
